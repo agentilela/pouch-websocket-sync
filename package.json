@@ -23,7 +23,7 @@
     "stream"
   ],
   "dependencies": {
-    "pouch-stream-multi-sync": "^0.3.0",
+    "pouch-stream-multi-sync": "https://github.com/agentilela/pouch-stream-multi-sync",
     "websocket-stream": "^2.1.0"
   },
   "devDependencies": {
@@ -32,7 +32,7 @@
     "istanbul": "^0.4.0",
     "lab": "^7.3.0",
     "memdown": "^1.1.0",
-    "pouchdb": "^5.1.0",
+    "pouchdb": "^6.3.4",
     "pre-commit": "^1.1.2"
   },
   "tags": [
